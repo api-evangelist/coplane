@@ -1,0 +1,21 @@
+# CoPlane
+
+> CoPlane is a San Francisco-based enterprise software company building an AI-native intelligent operations layer for the back office of essential enterprises. It combines AI agents with deterministic business rules on a durable workflow engine to automate high-friction, exception-heavy processes across finance, procurement, and operations — invoice intake, PO matching, vendor onboarding, cash application, billing, collections, reconciliation, close, and variance analysis — running inside the customer's own cloud and interoperating with SAP, Workday, and Coupa across Source-to-Pay, Quote-to-Cash, and Record-to-Report.
+
+CoPlane does not currently publish a public developer API, OpenAPI specification, or developer portal. This is an API Evangelist network profile generated from the public company surface. Backed by Ribbit Capital (seed, Nov 2025; with Stripe, Optum Ventures, Terrain). SOC 2 Type II and ISO 27001 compliant.
+
+## Company
+
+- [Website](https://coplane.com): Product and company overview
+- [Platform](https://coplane.com/platform): The CoPlane intelligent operations layer
+- [Manifesto](https://coplane.com/manifesto): Company thesis on rebuilding the back office
+- [Perspectives (Blog)](https://coplane.com/perspectives): Company writing and announcements
+- [Careers](https://coplane.com/careers): Open roles
+
+## Developer
+
+- [GitHub Organization](https://github.com/coplane): Public repositories (developer tooling; no first-party API SDK)
+
+## Legal
+
+- [Privacy Policy](https://coplane.com/legal/privacy-policy): Privacy practices
