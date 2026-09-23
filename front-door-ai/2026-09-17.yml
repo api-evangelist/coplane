@@ -1,0 +1,29 @@
+# Front Door AI Index — coplane — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: coplane
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: coplane.com
+  final_host: coplane.com
+  ownership: own
+  owner: coplane
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 9.07
+  words: 551
+  tiers:
+    agentic: 0
+    core: 4
+    model: 1
+  ambiguous: 9
+  top_terms:
+    agent: 5
+    AI: 4
+    intelligence: 3
+    Claude: 1
+    automation: 1
